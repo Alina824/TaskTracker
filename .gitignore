@@ -38,7 +38,7 @@ ui_*.h
 *.swo
 *~
 
-# Database (optional - remove if you want to track test database)
+# Database
 *.db
 *.sqlite
 *.sqlite3
